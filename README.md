@@ -4,7 +4,7 @@
 * parse
 * request
 * bs4
-* pytelegramAPIbot
+* pytelegramAPI
 
 ## Run
 python main.py
