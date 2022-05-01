@@ -1,10 +1,9 @@
 # Curency
 
 ### Used
-* parse
 * request
 * bs4
-* pytelegramAPI
+* pytelegramapi
 
 ## Run
 python main.py
